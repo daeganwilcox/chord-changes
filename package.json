@@ -1,0 +1,19 @@
+{
+  "name": "chord-changes",
+  "version": "1.0.0",
+  "description": "web app to practice instrument chord switching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daeganwilcox/chord-changes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daeganwilcox/chord-changes/issues"
+  },
+  "homepage": "https://github.com/daeganwilcox/chord-changes#readme"
+}
